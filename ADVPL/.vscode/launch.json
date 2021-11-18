@@ -1,0 +1,67 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "totvs_language_debug",
+			"request": "launch",
+			"name": "Depuração do idioma TOTVS",
+			"program": "${command:AskForProgramName}",
+			"cwb": "${workspaceFolder}",
+			"smartclientBin": "C:/LOBOGUARA/Protheus/Protheus/bin/Smartclient/smartclient.exe",
+			"isMultiSession": true,
+			"enableTableSync": true
+		}
+	],
+	"lastPrograms": [
+		{
+			"label": "VARIAVEL",
+			"description": "<nil>"
+		},
+		{
+			"args": [],
+			"label": "VARIAVEL",
+			"description": ""
+		},
+		{
+			"label": "OlaMundo",
+			"description": "<nil>"
+		},
+		{
+			"label": "U_OlaMundo",
+			"description": "<nil>"
+		},
+		{
+			"label": "U_VARIAVEL",
+			"description": "<nil>"
+		},
+		{
+			"label": "U_ESCOPO",
+			"description": "<nil>"
+		},
+		{
+			"label": "U_OPERADOR",
+			"description": "<nil>"
+		},
+		{
+			"label": "U_ESTRUTURA",
+			"description": "<nil>"
+		},
+		{
+			"label": "U_AVETOR",
+			"description": "<nil>"
+		},
+		{
+			"label": "U_AVETOR2",
+			"description": "<nil>"
+		},
+		{
+			"label": "U_ARVETOR",
+			"description": "<nil>"
+		},
+		{
+			"label": "U_BLOCO",
+			"description": "<nil>"
+		}
+	],
+	"lastProgramExecuted": "U_BLOCO"
+}
